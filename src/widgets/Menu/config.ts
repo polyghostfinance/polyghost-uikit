@@ -120,6 +120,10 @@ export const socials = [
     items: [
       {
         label: "Discussion",
+        href: "https://t.me/PolyGhost",
+      },
+      {
+        label: "Announcements",
         href: "https://t.me/PolyGhostFinance",
       },
     ],
